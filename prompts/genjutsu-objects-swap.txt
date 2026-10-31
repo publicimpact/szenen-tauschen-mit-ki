@@ -1,0 +1,14 @@
+Higgsfield Genjutsu, Modus Objects swap, finaler Lauf vom 31.10.2026
+Higgsfield-Oberfläche, 720p, 29,5 s, ein Lauf über die ganze Länge
+
+Eingaben in dieser Reihenfolge:
+Video   eigener Dreh im Wohnzimmer, 16:9, 1280 x 720, Kamera fest
+@Image1 Outfit: Anzug, offenes weißes Hemd, Goldkette (Standbild aus dem Dreh, ohne Gesicht)
+@Image2 Person: Frau im roten Kleid
+@Image3 Objekt: Bündel aus 500-Euro-Scheinen
+@Image4 Ort: leere Einfahrt einer Villa, bewölkter Nachmittag
+@Image5 Auto: rotes Coupé, Foto ohne Kennzeichen
+
+Prompt:
+
+TASK - VIDEO EDIT. KEEP EXACTLY AS IN THE SOURCE VIDEO: the man's face, beard, hair, expressions, lip movements and voice; every movement and gesture on the same frame; the camera position, framing and timing; his exact size and position in frame. No cuts, no reframing, no mirroring. OUTFIT, whole video: he wears the black suit, open white shirt and thick gold chain from @Image1 (outfit only, ignore the room in that photo). PLACE, whole video: the living room is the gravel forecourt of the modern villa from @Image4 on an overcast autumn afternoon: white facade, dark window frames, trimmed hedge, pale gravel with fallen leaves, soft daylight. No room, furniture, kitchen counter, curtains or ceiling appears at any moment. WOMAN, 0 to 6.5 s: the white plush toy in his arms is the woman from @Image2 in her red evening gown. She is alive, her arms around his neck, laughing and looking at him. At about 6.5 s he swings her out of the frame like in a comedy sketch. No plush toy appears at any moment. MONEY, 9 to 14 s: the black pouch in his hand is a thick bundle of 500 euro notes from @Image3. When he tosses it up at about 11.5 s, the band breaks and the notes flutter down around him onto the gravel. No pouch appears at any moment. CAR, whole video: the sofa is the red low coupe from @Image5 with exactly its red paint, shape and wheels, life-size, its roof at his chest height, standing exactly where the sofa stands. Its door on the camera side is wide open: hinged at its front edge and swung outward, the frameless window glass fixed on top of the door. At about 23.5 s he sits down low into its seat and holds the steering wheel. No sofa appears at any moment. REALISM: real, unedited iPhone footage. Nothing looks AI, CGI or fake.

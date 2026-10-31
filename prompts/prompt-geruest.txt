@@ -1,0 +1,9 @@
+Prompt-Gerüst für Higgsfield Genjutsu, Modus Objects swap
+Nur die Struktur übernehmen, Inhalte in eckigen Klammern für die eigene Szene neu schreiben.
+
+KEEP EXACTLY for the whole video: the man, his real face, hair and beard, his voice and lip movement, every movement, gesture and step, the camera position, framing and timing.
+OUTFIT @Image1, whole video: [clothes], [shoes], [jewellery].
+PERSON @Image2 replaces the [placeholder] for the whole video: [look]. [What she does]. At [x] s he throws her out of frame towards the [LEFT] edge.
+OBJECT @Image3 replaces the [placeholder] for the whole video: [look, what happens to it].
+PLACE @Image4 replaces the room for the whole video: [place, light, weather]. The [furniture] becomes [object @Image5] at the same position.
+No [placeholder] appears at any moment. No text, no subtitles.
