@@ -1,4 +1,6 @@
-# Making-of: Szenen tauschen mit Genjutsu
+# Szenen tauschen mit KI
+
+Making-of eines Reels mit Higgsfield Genjutsu.
 
 <!-- VIDEO -->
 <p align="center"><img src="assets/cover.jpg" alt="Thumbnail: oben echt im Wohnzimmer mit Kuscheltier, unten die KI-Fassung mit Frau im roten Kleid vor Villa und Coupé" width="300"></p>
