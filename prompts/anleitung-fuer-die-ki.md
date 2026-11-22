@@ -50,6 +50,6 @@ Meine Stimme aus dem Original freistellen, dazu eine Atmo des neuen Ortes. Effek
 
 9:16 auf Schwarz. Oben der Titel, darunter der KI-Clip randlos, dann ein schmales Band mit Untertiteln, darunter das Original, unten der Aufruf. Der ganze Block sitzt mittig.
 
-## Genjutsu-Wege und Preise, Stand 31.10.2026
+## Genjutsu-Wege, Stand 31.10.2026
 
-In der Higgsfield-Oberfläche 29,5 s in 720p 210 Credits. Higgsfield-Abo per Kommandozeile: 15 s in 720p 105 Credits. Genjutsu Lite: 2 Credits je Sekunde. API: 0,318 $ je Sekunde in 480p, 0,681 $ in 720p (Listenpreis); das Eingangsvideo wird auf volle Sekunden aufgerundet, ein Auftrag wird erst angenommen und scheitert danach, wenn das Guthaben fehlt.
+Genjutsu läuft in der Higgsfield-Oberfläche, per Kommandozeile, als Genjutsu Lite und über die API. Das Eingangsvideo wird auf volle Sekunden aufgerundet, ein Auftrag wird erst angenommen und scheitert danach, wenn das Guthaben fehlt. Preise vor dem Lauf beim Anbieter nachsehen.

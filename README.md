@@ -5,7 +5,7 @@ Making-of eines Reels mit Higgsfield Genjutsu.
 <!-- VIDEO -->
 <p align="center"><img src="assets/cover.jpg" alt="Thumbnail: oben echt im Wohnzimmer mit Kuscheltier, unten die KI-Fassung mit Frau im roten Kleid vor Villa und Coupé" width="300"></p>
 
-Ein Reel im Hochformat, oben die KI-Fassung, unten der echte Dreh. Gedreht im Wohnzimmer: ein Kuscheltier auf dem Arm, ein Beutel, ein Sofa. Higgsfield Genjutsu hat daraus eine Frau im roten Kleid, ein Bündel 500-Euro-Scheine, ein Coupé und die Einfahrt einer Villa gemacht. Gesicht, Stimme und jede Bewegung blieben echt. Hier steht, wie das Reel entstanden ist: Ablauf, Eingaben, Prompt, Kosten und was wir dabei gelernt haben.
+Ein Reel im Hochformat, oben die KI-Fassung, unten der echte Dreh. Gedreht im Wohnzimmer: ein Kuscheltier auf dem Arm, ein Beutel, ein Sofa. Higgsfield Genjutsu hat daraus eine Frau im roten Kleid, ein Bündel 500-Euro-Scheine, ein Coupé und die Einfahrt einer Villa gemacht. Gesicht, Stimme und jede Bewegung blieben echt. Hier steht, wie das Reel entstanden ist: Ablauf, Eingaben, Prompt und was wir dabei gelernt haben.
 
 | | |
 |---|---|
@@ -20,7 +20,6 @@ Ein Reel im Hochformat, oben die KI-Fassung, unten der echte Dreh. Gedreht im Wo
 - [Ablauf](#ablauf)
 - [Eingaben](#eingaben)
 - [Werkzeuge](#werkzeuge)
-- [Kosten](#kosten)
 - [Was wir gelernt haben](#was-wir-gelernt-haben)
 - [Verworfene Wege](#verworfene-wege)
 - [Selbst bauen](#selbst-bauen)
@@ -59,16 +58,6 @@ Ein Reel im Hochformat, oben die KI-Fassung, unten der echte Dreh. Gedreht im Wo
 | ffmpeg | Umrechnen, Schnitt, Mischung, Lautheit | [ffmpeg.org](https://ffmpeg.org) |
 | Chrome ohne Fenster | Titel, Untertitel und Aufruf als Ebenen | [google.com/chrome](https://www.google.com/chrome/) |
 
-## Kosten
-
-| Posten | Kosten |
-|---|---|
-| Genjutsu-Lauf, 29,5 s in 720p | 210 Credits; bei uns ein Gratis-Lauf aus dem Higgsfield-Abo |
-| Referenzbilder samt Fehlversuchen | rund 20 Credits |
-| Ton, erste Runde | rund 1.150 ElevenLabs-Credits |
-
-Genjutsu-Preise bei Higgsfield, Stand 31.10.2026: in der Oberfläche 29,5 s in 720p 210 Credits; per Kommandozeile 15 s in 720p 105 Credits; Genjutsu Lite 2 Credits je Sekunde; über die API 0,318 $ je Sekunde in 480p und 0,681 $ in 720p (Listenpreis). Das Eingangsvideo wird auf volle Sekunden aufgerundet.
-
 ## Was wir gelernt haben
 
 1. **Tauschen statt neu bauen.** Ein Objects-swap-Lauf über 29,5 s hat Gesicht, Stimme und jede Bewegung behalten und trotzdem das Wohnzimmer gegen eine Villa-Einfahrt getauscht.
@@ -83,7 +72,7 @@ Genjutsu-Preise bei Higgsfield, Stand 31.10.2026: in der Oberfläche 29,5 s in 7
 - **Geländewagen statt Coupé.** Zu hoch für die tiefe Sitzposition im Dreh, das Emblem war erfunden.
 - **Generiertes Auto im Ort.** Die Tür war dreimal falsch angeschlagen, mit zwei Bildmodellen.
 - **Sonnenuntergang im Hochformat.** Wirkte künstlich. Außerdem ist das Video 16:9.
-- **Wan 3.0 Prime statt Genjutsu.** Dieselbe Szene aus Referenzbildern und Video neu erzeugt (3,67 $ Listenpreis). Das Modell tauscht nicht, es baut alles neu: Ein Ausfallschritt fehlte, wegen der Grenze von rund 15 s brauchte es zwei Läufe, in der zweiten Hälfte stand die geworfene Frau wieder neben dem Auto, alles in weichem 480p.
+- **Wan 3.0 Prime statt Genjutsu.** Dieselbe Szene aus Referenzbildern und Video neu erzeugt. Das Modell tauscht nicht, es baut alles neu: Ein Ausfallschritt fehlte, wegen der Grenze von rund 15 s brauchte es zwei Läufe, in der zweiten Hälfte stand die geworfene Frau wieder neben dem Auto, alles in weichem 480p.
 
 ## Selbst bauen
 
